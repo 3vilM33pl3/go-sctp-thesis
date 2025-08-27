@@ -1,18 +1,17 @@
 ### Remarks (added 2025)
 
-This project is part of my Masters Thesis and presented at the BSD conference in Asia, Europe and Canada 2012 - 2013. 
+_This project is part of my Masters Thesis and presented at the BSD conference in Asia, Europe and Canada 2012 - 2013._
 
-Paper: [SCTP in Go](https://2013.asiabsdcon.org/papers/abc2013-P7A-paper.pdf)
+_Paper: [SCTP in Go](https://2013.asiabsdcon.org/papers/abc2013-P7A-paper.pdf)_
 
-Presentation: [Implementation of SCTP in Go (FreeBSD) - Olivier Van Acker, EuroBSDcon 2012](https://www.youtube.com/watch?v=0bsxjosoSoc)
+_Presentation: [Implementation of SCTP in Go (FreeBSD) - Olivier Van Acker, EuroBSDcon 2012](https://www.youtube.com/watch?v=0bsxjosoSoc)_
 
-The SCTP implementation is part of the Go runtime / standard library and implemented in exactly the same manner TCP and UDP are implemented;
-directly linked to the relevant system calls in the kernel.
+_The SCTP implementation is part of the Go runtime / standard library and implemented in exactly the same manner TCP and UDP are implemented;_
+_directly linked to the relevant system calls in the kernel._
 
-This implementation is a reimplementation of the original version which was implemented when Go 1.0 was released. 
-It only works on old versions of FreeBSD and MacOS (11 and El Captain). 
+_This implementation is a reimplementation of the original version which was implemented when Go 1.0 was released._
+_It only works on old versions of FreeBSD and MacOS (11 and El Captain)._ 
 
-### ^^^ Remarks (added 2025) ^^^
 
 # SCTP in Go
 
