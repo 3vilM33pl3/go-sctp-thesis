@@ -1,6 +1,6 @@
 ### Remarks (added 2025)
 
-_This project is part of my Masters Thesis and presented at the BSD conference in Asia, Europe and Canada 2012 - 2013._
+_This project is part of my Masters Thesis and presented at the BSD conferences in Asia, Europe and Canada in 2012 and 2013._
 
 _Paper: [SCTP in Go](https://2013.asiabsdcon.org/papers/abc2013-P7A-paper.pdf)_
 
