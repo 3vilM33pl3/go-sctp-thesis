@@ -70,16 +70,16 @@ func main() {
 ## Build instructions for SCTP in Go
 These commands are based on the instructions [here](https://golang.org/doc/install/source).
 
-	$ git clone https://github.com/cyberroadie/go-sctp
+	$ git clone https://github.com/3vilM33pl3/go-sctp-thesis
         $ export GOROOT=/usr/local/go 
-	$ cd go-sctp
+	$ cd go-sctp-thesis
 	$ cd src
 	$ ./all.bash
 
-To run the go command replace symbolic link /usr/local/bin/go and point it to go-sctp/bin/go:
+To run the go command replace symbolic link /usr/local/bin/go and point it to go-sctp-thesis/bin/go:
 
         $ rm /usr/local/bin/go
-        $ ln -s /pathtorepo/go-sctp/bin/go /usr/local/bin/go
+        $ ln -s /pathtorepo/go-sctp-thesis/bin/go /usr/local/bin/go
 
 ## Test SCTP in Go
 The [SCTP examples repository](https://github.com/cyberroadie/sctp-examples) contains working examples 
